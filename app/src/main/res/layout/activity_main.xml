@@ -25,6 +25,7 @@
                 android:layout_height="wrap_content"
                 android:background="@color/colorPrimary"
                 android:minHeight="?attr/actionBarSize"
+                app:menu="@menu/menu_dashboard"
                 android:theme="@style/ThemeOverlay.AppCompat.Dark"
                 app:layout_scrollFlags="scroll|enterAlways" />
         </com.google.android.material.appbar.AppBarLayout>

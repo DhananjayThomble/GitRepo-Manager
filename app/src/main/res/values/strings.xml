@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">GitRepo Manager</string>
     <string name="back">back</string>
+    <string name="addRepo">add repo</string>
+    <string name="home">home</string>
+    <string name="profile">profile</string>
+    <string name="sampleName">Dhananjay</string>
+    <string name="sampleEmail">dhananjaythomble@gmail.com</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
 </resources>

@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android/All/Internship_Test_Project/GitRepoManager/app/src/main/res/layout/activity_main.xml" value="0.20462962962962963" />
-        <entry key="..\:/Android/All/Internship_Test_Project/GitRepoManager/app/src/main/res/layout/include_drawer_header.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/All/Internship_Test_Project/GitRepoManager/app/src/main/res/layout/include_drawer_header.xml" value="0.20462962962962963" />
         <entry key="..\:/Android/All/Internship_Test_Project/GitRepoManager/app/src/main/res/menu/menu_back.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/All/Internship_Test_Project/GitRepoManager/app/src/main/res/menu/menu_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android/All/Internship_Test_Project/GitRepoManager/app/src/main/res/menu/menu_navigation_drawer.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
